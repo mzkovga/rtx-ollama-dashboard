@@ -79,6 +79,11 @@ Run the following commands one by one to pull the best local models suited for a
 
 ---
 
+<img width="1089" height="864" alt="image" src="https://github.com/user-attachments/assets/1890b285-250b-4b1c-88af-749a72f9c3d9" />
+<img width="1090" height="866" alt="image" src="https://github.com/user-attachments/assets/7fea2594-7819-470e-a745-c64f66022c69" />
+
+
+---
 ## 🛠️ Troubleshooting
 
 - **GPU data not showing:** verify that `nvidia-smi` runs correctly in your terminal.
