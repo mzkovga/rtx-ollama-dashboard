@@ -2,7 +2,7 @@
 
 A lightweight, real-time web dashboard built with Python (`http.server` & `ThreadingTCPServer`) and vanilla HTML/CSS (Bento Grid design) to monitor system hardware (GPU temp/power/VRAM, CPU temp, RAM, Disk) and manage local LLMs running via **Ollama** on Ubuntu workstations.
 
-Designed with optimization in mind for **8GB VRAM GPUs (like the RTX 2070)**.
+Designed with optimization in mind for **8GB VRAM GPUs (like the RTX 2060,2070,2080, Series 3, 4 With 8GB VRAM)**.
 
 ## ✨ Features
 * **Real-time GPU Telemetry:** Temperature, power consumption, core utilization, and VRAM usage.
