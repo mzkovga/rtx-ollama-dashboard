@@ -1,4 +1,4 @@
-# RTX & Ollama System Dashboard
+# RTX & Ollama System Dashboard 🤖
 
 A lightweight, real-time web dashboard built with Python's standard library (`http.server`) and vanilla HTML/CSS/JS. It monitors your GPU, CPU, RAM and disk, and lets you manage local LLMs running via **[Ollama](https://ollama.com)** on Ubuntu workstations. No `pip install`, no frameworks, a single file.
 
